@@ -41,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrador/Documents/GitHub/Cantina"
+    "last_opened_file_path": "C:/Users/Administrador/Documents/GitHub/Listaprodutos"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688430256280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Desafio 2 de Lógica Jovem Programador">
+      <created>1688431131883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688431131883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
